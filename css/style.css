@@ -2,6 +2,14 @@ html{
   background-color:#9c9;
 }
 
+body{
+  margin: 8px auto;
+  padding: 8px;
+  width: 980px;
+  background-color: #eee;
+  border-radius: 10px;
+}
+
 .me{
   width:400px;
 }
