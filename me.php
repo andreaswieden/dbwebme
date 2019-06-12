@@ -13,6 +13,7 @@
     <img src="img/me.jpg" class="me" alt="Bild på Roos">
     
     <footer>
+      <hr>
       <a href="http://validator.w3.org/check/referer">HTML5</a>
     </footer>
     
