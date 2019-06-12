@@ -17,6 +17,7 @@ body{
 .site-header{
   background-color:#fff;
   overflow: auto; /* clear fix to make div span all elements*/
+  border-radius: 10px;
 }
 
 .site-header img{
