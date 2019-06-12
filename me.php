@@ -15,7 +15,13 @@
       <span class="site-title">Me-Sida för Mikael</span>
       <span class="site-slogan">Min första fina me-sida är på gång</span>
     </header>
-  
+    
+    <nav>
+      <a href="me.php">Hem</a>
+      <a href="about.php">OM</a>
+      <a href="report.php">Redovisning</a>
+    </nav>
+    
     <h1>Om Mig Själv</h1>
     <p>Här kommer snart min egen fina me sida</p>
     <img src="img/me.jpg" class="me" alt="Bild på Roos">
