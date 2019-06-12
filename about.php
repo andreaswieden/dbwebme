@@ -16,7 +16,7 @@
       <span class="site-slogan">Min första fina me-sida är på gång</span>
     </header>
     
-    <nav>
+    <nav class="navbar">
       <a href="me.php">Hem</a>
       <a href="about.php">OM</a>
       <a href="report.php">Redovisning</a>
