@@ -13,3 +13,27 @@ body{
 .me{
   width:400px;
 }
+
+.site-header{
+  background-color:#fff;
+  overflow: auto; /* clear fix to make div span all elements*/
+}
+
+.site-header img{
+  float:left;
+}
+
+.site-title{
+  display:block;
+  padding-top: 1em;
+  padding-left: 50px;
+  font-size: 32px;
+  overflow: auto;
+}
+
+.site-slogan{
+  display:block;
+  padding-left: 50px;
+  font-style: italic;
+  overflow: auto;
+}
