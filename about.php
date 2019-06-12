@@ -1,5 +1,5 @@
 <?php
-  include( __DIR__ . "/incl/header.php");
+  include("incl/header.php");
 ?>
     
   <h1>Om Denna Webbplats</h1>
@@ -7,7 +7,7 @@
   <img src="img/me.jpg" class="me" alt="Bild på Roos">
     
 <?php
-  include( __DIR__ . "/incl/footer.php");
+  include("incl/footer.php");
 ?>
 
 
