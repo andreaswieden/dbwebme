@@ -10,6 +10,11 @@
     <h1>Om Mig Själv</h1>
     <p>Här kommer snart min egen fina me sida</p>
     <img src="img/me.jpg" class="me" alt="Bild på Roos">
+    
+    <footer>
+      <a href="http://validator.w3.org/check/referer">HTML5</a>
+    </footer>
+    
   </body>
 </html>
 
