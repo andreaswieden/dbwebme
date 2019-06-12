@@ -9,7 +9,7 @@
 
   <body>
   
-    <header>
+    <header class="site-header">
       <img src="img/logo.jpg" alt="logo">
       <span class="site-title">Me-Sida för Mikael</span>
       <span class="site-slogan">Min första fina me-sida är på gång</span>
