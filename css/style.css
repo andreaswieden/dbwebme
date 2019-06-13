@@ -67,16 +67,15 @@ body{
 }
 
 .byline-img-holder{
-    float:left;
+  float:left;
 }
 
 .byline img{
   width: 75px;
-  //float:left;
 }
 
-.byline figcaption{
-  font-size: .75em;
+.byline-img-holder-caption{
+  font-size: .8em;
   font-weight: bold;
 }
 
