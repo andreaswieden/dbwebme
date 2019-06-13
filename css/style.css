@@ -57,3 +57,35 @@ body{
   background-color: #eee;
   text-decoration: underline;
 }
+
+.byline{
+  border: 1px solid #999;
+  background-color: #fff;
+  padding: .75em;
+  overflow: auto;
+  
+}
+
+.byline-img-holder{
+    float:left;
+}
+
+.byline img{
+  width: 75px;
+  //float:left;
+}
+
+.byline figcaption{
+  font-size: .75em;
+  font-weight: bold;
+}
+
+.byline-text{
+  display:block;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 1.5em;
+  font-style: italic;
+  font-size: 1em;
+  overflow: auto;
+}
